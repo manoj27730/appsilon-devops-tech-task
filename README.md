@@ -109,4 +109,6 @@ Remember - aws-cli if your best friend :)
 
 btw, work like a charm :)
 
+<img src="pic/graph.png" alt="drawing" height="350"/>
+
 ![app](pic/app_screen.png)
