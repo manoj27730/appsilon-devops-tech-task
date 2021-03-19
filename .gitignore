@@ -1,0 +1,5 @@
+#  Local .terraform directories
+.ansible/
+commit.sh
+
+
